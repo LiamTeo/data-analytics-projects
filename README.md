@@ -1,5 +1,5 @@
 # Data Analytics Projects
-This repository contains a collection of data analytics projects and tutorials.
+This repository contains a collection of data analytics projects and tutorials. TESTING NEW CHANGES
 
 ## Projects
 - **Project 1: Test**
